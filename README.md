@@ -1,4 +1,4 @@
-USA
+USA Legal Repository
 ===
 
-United States of America
+[LawGives](www.lawgives.com) legal repository for the United States of America.
