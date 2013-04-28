@@ -2,6 +2,11 @@
 
 ##Comments and attributions
 
+*Jurisdictions*
+
+* USA
+** CA
+
 This “Founder Collaboration Agreement” is intended for use as a seed document between founders, that can then act as a foundation for a more complex business and legal relationship.
 
 *Authors:*
