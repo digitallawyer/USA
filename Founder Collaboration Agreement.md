@@ -1,5 +1,9 @@
 #Founder Collaboration Agreement
 
+**Authors:**
+
+* Inder Comar, http://www.comarlaw.com/
+
 ##Comments and attributions
 
 This “Founder Collaboration Agreement” is intended for use as a seed document between founders, that can then act as a foundation for a more complex business and legal relationship.
@@ -8,19 +12,13 @@ This “Founder Collaboration Agreement” is intended for use as a seed documen
 
 * USA (CA)
 
-*Authors:*
 
-* Inder Comar, http://www.comarlaw.com/
-
-*Editors:* 
-
-* @digitallawyer
 
 **Key clauses:**
 
-(1) define the relationship of the founders; 
-(2) provide the expectation that all work will belong to some entity in the future, to be determined; and 
-(3) outline a basic communication and conflict-resolution clause that can help prevent complicated disputes down the road.
+1. define the relationship of the founders; 
+2. provide the expectation that all work will belong to some entity in the future, to be determined; and 
+3. outline a basic communication and conflict-resolution clause that can help prevent complicated disputes down the road.
 
 Terms can be modified on an as-needed basis; comments are provided where needed.
 
