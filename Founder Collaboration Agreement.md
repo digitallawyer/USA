@@ -2,22 +2,21 @@
 
 ##Comments and attributions
 
-*Jurisdictions*
-
-* USA
-** CA
-
 This “Founder Collaboration Agreement” is intended for use as a seed document between founders, that can then act as a foundation for a more complex business and legal relationship.
+
+**Jurisdictions**
+
+* USA (CA)
 
 *Authors:*
 
-Inder Comar, http://www.comarlaw.com/
+* Inder Comar, http://www.comarlaw.com/
 
 *Editors:* 
 
-@digitallawyer
+* @digitallawyer
 
-*Key clauses:*
+**Key clauses:**
 
 (1) define the relationship of the founders; 
 (2) provide the expectation that all work will belong to some entity in the future, to be determined; and 
@@ -31,7 +30,7 @@ This sample agreement is for informational purposes only and does not constitute
 
 The undersigned (each a “Founder” and together the “Founders”) are collaborating with the purpose of developing together a business concept related to 
 
-[DESCRIBE BUSINESS CONCEPT HERE] and related technology (the “Business Concept and Technology”) which, if developed, will be transferred to and launched by a company to be formed by the Founders (the “Company”). 
+**[DESCRIBE BUSINESS CONCEPT HERE]** and related technology (the “Business Concept and Technology”) which, if developed, will be transferred to and launched by a company to be formed by the Founders (the “Company”). 
 
 In connection with such collaboration, and in consideration for a mutually agreeable framework which shall serve as the foundation for the Founders to successfully develop the Business Concept and Technology, the undersigned hereby agree as follows:
 
@@ -45,7 +44,9 @@ Section 1.3	For purposes of this Agreement, the Company shall be considered form
 
 ###2.	OWNERSHIP STRUCTURE UPON FORMATION
 
-Section 2.1	Upon formation of the Company, the entire issued share ownership of the Company will be split [DESCRIBE SPLIT OF COMPANY, e.g., “equally,” “10 percent to Founder A,” etc.], but in all instances shall be reached by consensus of the Founders. Any portion reserved for a share option pool will dilute all Founders equally.
+Section 2.1	Upon formation of the Company, the entire issued share ownership of the Company will be split 
+
+**[DESCRIBE SPLIT OF COMPANY, e.g., “equally,” “10 percent to Founder A,” etc.]**, but in all instances shall be reached by consensus of the Founders. Any portion reserved for a share option pool will dilute all Founders equally.
 
 Section 2.2	The shares issued to each Founder shall be on a vesting schedule so that if any Founder’s relationship with the Company terminates for any reason prior to full vesting of all shares entitled to the Founder, the remaining portion of any unvested shares shall be returned to the Company in accordance with that vesting schedule.
 
@@ -57,7 +58,7 @@ Section 3.1	The Founders agree to keep the Business Concept and Technology confi
 
 ###4.	CONTRACTUAL COMMUNICATION AND DISPUTE RESOLUTION
 
-Section 4.1	Within [DEFINE LENGTH OF TIME, e.g., “one month,” “six months,” “one year”] of signature, if the Founders have not yet formed a Company, the Founders agree to discuss the benefits of continued collaboration related to the Business Concept and Technology and will discuss a mutually agreeable timetable for the formation of the Company. 
+Section 4.1	Within **[DEFINE LENGTH OF TIME, e.g., “one month,” “six months,” “one year”]** of signature, if the Founders have not yet formed a Company, the Founders agree to discuss the benefits of continued collaboration related to the Business Concept and Technology and will discuss a mutually agreeable timetable for the formation of the Company. 
 
 Section 4.2	In the event that the Founders do not wish to continue their mutual collaboration, the Founders shall discuss a mutually agreeable separation and division of assets of their collaboration. The Founders shall further define any and all confidentiality obligations related to the Business Concept and Technology. Consistent with Cal. Bus. & Prof. Code § 16600, et seq., in no circumstance shall the underlying business concept be considered confidential upon termination of this Agreement.  
 
